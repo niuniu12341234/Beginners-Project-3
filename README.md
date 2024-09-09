@@ -30,7 +30,6 @@ Our program will stay true to the original Wordle game, but we’re going to add
 4. The user is allowed 6 guesses to guess the word.
     - If they guess the word correctly, a message saying “Congratulations! You guessed ‘<word>’ correctly.” should appear.
     - If they fail to guess the word within the 6 guesses, a message saying “Unfortunate! The word was ‘<word>’.” should appear.
-    - This will loop until the user wins 3 games.
 
 ### Example Input and Output
 Inputs are in **bold**; The word is ‘grain’
